@@ -12,7 +12,6 @@
     "fs:list": "node src/fs/list",
     "fs:read": "node src/fs/read",
     "cli:env": "node src/cli/env",
-    "cli:args": "node src/cli/args",
     "modules": "node src/modules/cjsToEsm",
     "hash": "node src/hash/calcHash",
     "stream:read": "node src/streams/read",
